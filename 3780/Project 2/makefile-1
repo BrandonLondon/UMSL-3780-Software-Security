@@ -1,0 +1,2 @@
+all: 
+	g++ main.cpp banner.cpp create.cpp sha256.cpp multiple.cpp login.cpp -lssl -lcrypto
